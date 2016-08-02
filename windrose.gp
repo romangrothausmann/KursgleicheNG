@@ -25,7 +25,8 @@ set output outfile
 ## http://www.gnuplotting.org/vector-field-from-data-file/
 xf(phi) = r*cos(pi/2-phi/180.0*pi) # rotate left from north
 yf(phi) = r*sin(pi/2-phi/180.0*pi)
+ls(l,a) = sprintf("%s %.2f°", l, a)
 
 plot \
      d1 u (0):(0):(xf(column(cL))):(yf(column(cL))) with vectors head size 0.05,15,60 filled lc 'black' , \
-     "" u (xf(column(cL))):(yf(column(cL))):cS with labels left # offset 10 rotate by column(cL)
+     "" u (xf(column(cL))):(yf(column(cL))):(ls(stringcolumn(cS),column(cL))) with labels left # offset 10 rotate by column(cL)
