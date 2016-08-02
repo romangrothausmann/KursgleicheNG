@@ -1,5 +1,11 @@
 #### MF to call windrose.gp on processed CSV
 
+
+#### ToDo
+## rotate labels according to laxodrome angle
+## awk script to calc laxodrome angles
+
+
 .PHONY: all clean
 
 all : windrose.svg

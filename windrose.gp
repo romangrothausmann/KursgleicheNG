@@ -22,8 +22,8 @@ set terminal svg enhanced font "sans,10" size 1024,1024 #don't use: courier or a
 set output outfile
 
 ## http://www.gnuplotting.org/vector-field-from-data-file/
-xf(phi) = r*cos(phi/180.0*pi)
-yf(phi) = r*sin(phi/180.0*pi)
+xf(phi) = r*cos(pi/2-phi/180.0*pi) # rotate left from north
+yf(phi) = r*sin(pi/2-phi/180.0*pi)
 
 plot \
      d1 u (0):(0):(xf(column(cL))):(yf(column(cL))) with vectors head size 0.05,15,60 filled lc 'black'
