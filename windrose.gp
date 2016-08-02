@@ -3,6 +3,7 @@
 if (!exists("datafiles")) datafiles='default.dat' # http://gnuplot.sourceforge.net/docs_4.2/node60.html
 if (!exists("outfile")) outfile='windrose.svg' # use ARG0."svg" for gp-5:  http://stackoverflow.com/questions/12328603/how-to-pass-command-line-argument-to-gnuplot#31815067
 if (!exists("cL")) cL='loxodrome' # http://stackoverflow.com/questions/16089301/how-do-i-set-axis-label-with-column-header-in-gnuplot#18309074
+if (!exists("cS")) cS='location'
 if (!exists("r")) r=1
 if (!exists("sep")) sep="\t"
 
@@ -26,4 +27,5 @@ xf(phi) = r*cos(pi/2-phi/180.0*pi) # rotate left from north
 yf(phi) = r*sin(pi/2-phi/180.0*pi)
 
 plot \
-     d1 u (0):(0):(xf(column(cL))):(yf(column(cL))) with vectors head size 0.05,15,60 filled lc 'black'
+     d1 u (0):(0):(xf(column(cL))):(yf(column(cL))) with vectors head size 0.05,15,60 filled lc 'black' , \
+     "" u (xf(column(cL))):(yf(column(cL))):cS with labels left # offset 10 rotate by column(cL)
