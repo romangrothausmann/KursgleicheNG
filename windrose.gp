@@ -11,6 +11,8 @@ set datafile separator sep
 
 d1= word(datafiles,1)
 
+stats d1 u cL nooutput # xrange, yrange filters data!
+
 set size ratio -1
 set xrange [-1.1:1.1]
 set yrange [-1.1:1.1]
@@ -26,7 +28,13 @@ set output outfile
 xf(phi) = r*cos(pi/2-phi/180.0*pi) # rotate left from north
 yf(phi) = r*sin(pi/2-phi/180.0*pi)
 ls(l,a) = sprintf("%s %.2f°", l, a)
+rf(a) = 90-a
+
+do for [i=2:STATS_records] {
+  plot d1 u cL:(a=column(cL),0/0) every 1:1:i-1:0:i:0 notitle
+  plot d1 u cL:(l=stringcolumn(cS),0/0) every 1:1:i-1:0:i:0 notitle
+  set label i left at xf(a),yf(a) ls(l,a) rotate by rf(a) font "sans,10"
+  }
 
 plot \
      d1 u (0):(0):(xf(column(cL))):(yf(column(cL))) with vectors head size 0.05,15,60 filled lc 'black' , \
-     "" u (xf(column(cL))):(yf(column(cL))):(ls(stringcolumn(cS),column(cL))) with labels left # offset 10 rotate by column(cL)
