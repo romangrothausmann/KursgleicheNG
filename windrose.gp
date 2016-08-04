@@ -11,6 +11,7 @@ set datafile separator sep
 
 d1= word(datafiles,1)
 
+set angle degrees
 set size ratio -1
 set xrange [-1.1:1.1]
 set yrange [-1.1:1.1]
@@ -23,8 +24,8 @@ set terminal svg enhanced font "sans,10" size 1024,1024 #don't use: courier or a
 set output outfile
 
 ## http://www.gnuplotting.org/vector-field-from-data-file/
-xf(phi) = r*cos(pi/2-phi/180.0*pi) # rotate left from north
-yf(phi) = r*sin(pi/2-phi/180.0*pi)
+xf(phi) = r*cos(90-phi) # rotate left from north
+yf(phi) = r*sin(90-phi)
 ls(l,a) = sprintf("%s %.2f°", l, a)
 
 plot \
