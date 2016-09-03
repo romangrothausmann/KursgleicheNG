@@ -47,17 +47,9 @@
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
-	<g id="gnuplot_plot_1" ><title>Kurs g [°]</title>
+	<g id="gnuplot_plot_1" ><title>gnuplot_plot_1</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(946.4,37.6)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
-		<text><tspan font-family="sans" >Kurs g [°]</tspan></text>
-	</g>
 </g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon fill = 'rgb(  0,   0,   0)' points = '974.7,34.3 972.1,28.7 988.9,34.3 972.1,39.9 974.7,34.3 '/>
-	</g>
-	<path stroke='rgb(  0,   0,   0)'  d='M974.7,34.3 L972.1,28.7 L988.9,34.3 L972.1,39.9 L974.7,34.3 M953.4,34.3 L974.7,34.3  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<path stroke='rgb(  0,   0,   0)'  d='M510.2,512.0  '/>	<g stroke='none' shape-rendering='crispEdges'>
 		<polygon fill = 'rgb(  0,   0,   0)' points = '510.2,82.3 504.5,85.6 510.2,64.1 515.9,85.6 510.2,82.3 '/>
@@ -271,12 +263,7 @@
 	</g>
 	<path stroke='rgb(  0,   0,   0)'  d='M938.8,480.3 L935.0,474.9 L956.9,479.0 L935.9,486.3 L938.8,480.3 M510.2,512.0 L938.8,480.3  '/></g>
 	</g>
-	<g id="gnuplot_plot_2" ><title>Kurs g [°]</title>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(946.4,52.6)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
-		<text><tspan font-family="sans" >Kurs g [°]</tspan></text>
-	</g>
-</g>
+	<g id="gnuplot_plot_2" ><title>gnuplot_plot_2</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(513.4,64.1) rotate(-90)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="start">
 		<text><tspan font-family="sans" >Aachen 0.00°</tspan></text>

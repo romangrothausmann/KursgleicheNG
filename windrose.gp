@@ -32,5 +32,5 @@ ls(l,a) = sprintf("%s %.2f°", l, a)
 rf(a) = 90-a
 
 plot \
-     d1 u (0):(0):(xf(column(cL))):(yf(column(cL))) with vectors head size 0.05,15,60 filled lc 'black' , \
-     "" u (xf(column(cL))):(yf(column(cL))):(ls(stringcolumn(cS),column(cL))):(rf(column(cL))) with labels left offset 0 rotate variable # http://gnuplot.sourceforge.net/demo_cvs/rotate_labels.html
+     d1 u (0):(0):(xf(column(cL))):(yf(column(cL))) with vectors head size 0.05,15,60 filled lc 'black' t '' , \
+     "" u (xf(column(cL))):(yf(column(cL))):(ls(stringcolumn(cS),column(cL))):(rf(column(cL))) with labels left offset 0 rotate variable t '' # http://gnuplot.sourceforge.net/demo_cvs/rotate_labels.html
