@@ -27,11 +27,11 @@ set terminal svg enhanced font "sans,10" size 1024,1024 #don't use: courier or a
 set output outfile
 
 ## http://www.gnuplotting.org/vector-field-from-data-file/
-xf(phi,r) = r*cos(90-phi) # rotate left from north
-yf(phi,r) = r*sin(90-phi)
+xf(x,y,phi) = x*cos(90-phi) - y*sin(90-phi)  # rotate left from north
+yf(x,y,phi) = x*sin(90-phi) + y*cos(90-phi)
 ls(l,a) = sprintf("%s %.2f°", l, a)
 rf(a) = 90-a
 
 plot \
-     d1 u (0):(0):(xf(column(cL), r )):(yf(column(cL), r )) with vectors head size 0.05,15,60 filled lc 'black' t '' , \
-     "" u (xf(column(cL) - lo, r*0.94 )):(yf(column(cL) - lo, r*0.94 )):(ls(stringcolumn(cS),column(cL))):(rf(column(cL))) with labels right offset 0 rotate variable t '' # http://gnuplot.sourceforge.net/demo_cvs/rotate_labels.html
+     d1 u (0):(0):(xf( r, 0, column(cL))):(yf( r, 0, column(cL))) with vectors head size 0.05,15,60 filled lc 'black' t '' , \
+     "" u (xf( r*0.94 , lo, column(cL))):(yf( r*0.94 , lo, column(cL))):(ls(stringcolumn(cS),column(cL))):(rf(column(cL))) with labels right offset 0 rotate variable t '' # http://gnuplot.sourceforge.net/demo_cvs/rotate_labels.html
