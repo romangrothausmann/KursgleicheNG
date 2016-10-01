@@ -7,7 +7,8 @@ if (!exists("outfile")) outfile='windrose.svg' # use ARG0."svg" for gp-5:  http:
 if (!exists("cL")) cL='loxodrome' # http://stackoverflow.com/questions/16089301/how-do-i-set-axis-label-with-column-header-in-gnuplot#18309074
 if (!exists("cS")) cS='location'
 if (!exists("r")) r=1
-if (!exists("lo")) lo=0.6
+if (!exists("R")) R=0.94 # due to right alignment values below ~0.2 let labels begin on "opposite side" of arrow
+if (!exists("lo")) lo=0.01 # should be approx. height of chosen font (dep. on font size)
 if (!exists("sep")) sep="\t"
 
 set datafile separator sep
@@ -34,4 +35,4 @@ rf(a) = 90-a
 
 plot \
      d1 u (0):(0):(xf( r, 0, column(cL))):(yf( r, 0, column(cL))) with vectors head size 0.05,15,60 filled lc 'black' t '' , \
-     "" u (xf( r*0.94 , lo, column(cL))):(yf( r*0.94 , lo, column(cL))):(ls(stringcolumn(cS),column(cL))):(rf(column(cL))) with labels right offset 0 rotate variable t '' # http://gnuplot.sourceforge.net/demo_cvs/rotate_labels.html
+     "" u (xf( R , lo, column(cL))):(yf( R , lo, column(cL))):(ls(stringcolumn(cS),column(cL))):(rf(column(cL))) with labels right offset 0 rotate variable t '' # http://gnuplot.sourceforge.net/demo_cvs/rotate_labels.html

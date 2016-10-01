@@ -265,175 +265,214 @@
 	</g>
 	<g id="gnuplot_plot_2" ><title>gnuplot_plot_2</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(244.7,91.0) rotate(-90)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(508.9,91.0) rotate(-90)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Aachen 0.00°</tspan></text>
 	</g>
-	<g transform="translate(363.5,36.4) rotate(-74)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(844.3,768.2) rotate(37)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Augsburg 127.64°</tspan></text>
+	</g>
+	<g transform="translate(618.6,105.2) rotate(-74)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Baltrum 15.09°</tspan></text>
 	</g>
-	<g transform="translate(62.0,728.7) rotate(186)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(91.6,466.0) rotate(186)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Bath 276.44°</tspan></text>
 	</g>
-	<g transform="translate(808.8,113.9) rotate(-20)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(856.5,751.4) rotate(34)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Berchtesgaden 124.81°</tspan></text>
+	</g>
+	<g transform="translate(903.1,360.8) rotate(-20)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Berlin 69.11°</tspan></text>
 	</g>
-	<g transform="translate(629.8,28.9) rotate(-43)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(812.9,219.5) rotate(-43)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Bochum 46.15°</tspan></text>
 	</g>
-	<g transform="translate(947.7,749.4) rotate(60)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(717.2,878.8) rotate(60)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Bologna 150.70°</tspan></text>
 	</g>
-	<g transform="translate(950.8,280.6) rotate(4)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(930.0,544.1) rotate(4)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Bonn 94.52°</tspan></text>
 	</g>
-	<g transform="translate(85.8,772.2) rotate(180)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(89.1,508.0) rotate(180)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Brighton 270.73°</tspan></text>
 	</g>
-	<g transform="translate(980.5,349.3) rotate(13)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(920.4,606.7) rotate(13)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Brno 103.15°</tspan></text>
 	</g>
-	<g transform="translate(213.1,911.6) rotate(158)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(117.8,665.1) rotate(158)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Caen 248.86°</tspan></text>
 	</g>
-	<g transform="translate(702.0,971.4) rotate(99)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(441.4,927.5) rotate(99)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Cala Millor 189.56°</tspan></text>
 	</g>
-	<g transform="translate(998.1,413.7) rotate(20)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(904.1,660.8) rotate(20)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Ceský Krumlov 110.84°</tspan></text>
 	</g>
-	<g transform="translate(957.7,730.1) rotate(58)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(733.1,869.4) rotate(58)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Davos 148.20°</tspan></text>
 	</g>
-	<g transform="translate(57.1,718.4) rotate(187)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(92.7,456.5) rotate(187)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >De Panne 277.74°</tspan></text>
 	</g>
-	<g transform="translate(35.6,361.6) rotate(229)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(237.6,191.1) rotate(229)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Den Haag 319.83°</tspan></text>
 	</g>
-	<g transform="translate(915.9,223.8) rotate(-3)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(930.4,487.6) rotate(-3)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Dresden 86.84°</tspan></text>
 	</g>
-	<g transform="translate(26.5,629.8) rotate(198)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(110.6,379.3) rotate(198)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Dublin 288.56°</tspan></text>
 	</g>
-	<g transform="translate(618.2,26.1) rotate(-45)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(805.8,212.3) rotate(-45)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Düsseldorf 44.78°</tspan></text>
 	</g>
-	<g transform="translate(935.8,770.3) rotate(63)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(783.2,191.6) rotate(-49)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Essen 40.60°</tspan></text>
+	</g>
+	<g transform="translate(699.3,888.3) rotate(63)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Florenz 153.48°</tspan></text>
 	</g>
-	<g transform="translate(1000.0,424.2) rotate(22)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(900.8,669.2) rotate(22)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Frankfurt am Main 112.06°</tspan></text>
 	</g>
-	<g transform="translate(698.8,51.5) rotate(-35)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(785.3,193.4) rotate(-49)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Hamburg 40.97°</tspan></text>
+	</g>
+	<g transform="translate(852.2,266.7) rotate(-35)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Hannover 54.52°</tspan></text>
 	</g>
-	<g transform="translate(86.9,774.1) rotate(180)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(838.2,776.0) rotate(38)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Heidelberg 128.98°</tspan></text>
+	</g>
+	<g transform="translate(89.1,509.8) rotate(180)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Hove 270.48°</tspan></text>
 	</g>
-	<g transform="translate(944.8,754.8) rotate(61)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(712.7,881.2) rotate(61)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Ischia 151.41°</tspan></text>
 	</g>
-	<g transform="translate(799.9,107.4) rotate(-22)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(899.6,352.1) rotate(-22)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Köln 67.84°</tspan></text>
 	</g>
-	<g transform="translate(116.8,817.1) rotate(174)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(91.2,554.1) rotate(174)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Land's End 264.44°</tspan></text>
 	</g>
-	<g transform="translate(965.9,312.0) rotate(8)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(849.0,762.0) rotate(36)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Lofer 126.56°</tspan></text>
+	</g>
+	<g transform="translate(926.7,573.4) rotate(8)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Loket 98.53°</tspan></text>
 	</g>
-	<g transform="translate(48.2,697.6) rotate(190)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(95.7,437.6) rotate(190)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >London 280.35°</tspan></text>
 	</g>
-	<g transform="translate(920.1,794.5) rotate(66)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(677.2,898.7) rotate(66)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Lucca 156.79°</tspan></text>
 	</g>
-	<g transform="translate(596.7,22.0) rotate(-47)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(792.3,199.7) rotate(-47)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Lübeck 42.26°</tspan></text>
 	</g>
-	<g transform="translate(24.0,619.4) rotate(199)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(113.5,370.7) rotate(199)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Maastricht 289.79°</tspan></text>
 	</g>
-	<g transform="translate(981.7,671.7) rotate(50)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(776.5,838.3) rotate(50)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Merano 140.93°</tspan></text>
 	</g>
-	<g transform="translate(230.4,923.9) rotate(156)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(124.7,681.6) rotate(156)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Mont-Saint-Michel 246.43°</tspan></text>
 	</g>
-	<g transform="translate(120.5,821.8) rotate(173)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(91.7,559.1) rotate(173)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Monterey 263.76°</tspan></text>
 	</g>
-	<g transform="translate(875.8,849.8) rotate(74)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(620.6,918.4) rotate(74)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Mulhouse 164.95°</tspan></text>
 	</g>
-	<g transform="translate(920.7,793.7) rotate(66)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(848.8,762.4) rotate(36)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >München 126.63°</tspan></text>
+	</g>
+	<g transform="translate(678.0,898.4) rotate(66)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Norcenni 156.68°</tspan></text>
 	</g>
-	<g transform="translate(341.5,43.8) rotate(-77)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(599.5,100.7) rotate(-77)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Norderney 12.43°</tspan></text>
 	</g>
-	<g transform="translate(345.0,981.7) rotate(141)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(180.9,774.5) rotate(141)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Paris 231.61°</tspan></text>
 	</g>
-	<g transform="translate(962.3,303.8) rotate(7)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(893.1,687.1) rotate(24)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Passau 114.72°</tspan></text>
+	</g>
+	<g transform="translate(927.8,565.8) rotate(7)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Prag 97.49°</tspan></text>
 	</g>
-	<g transform="translate(914.2,803.0) rotate(67)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(669.2,902.0) rotate(67)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Rabat (Mdina) 157.99°</tspan></text>
 	</g>
-	<g transform="translate(964.7,715.1) rotate(56)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(893.8,685.6) rotate(24)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Regensburg 114.50°</tspan></text>
+	</g>
+	<g transform="translate(744.9,861.7) rotate(56)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Romanshorn 146.29°</tspan></text>
 	</g>
-	<g transform="translate(906.1,813.8) rotate(69)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(882.1,709.4) rotate(28)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Rothenburg ob der Tauber 118.11°</tspan></text>
+	</g>
+	<g transform="translate(658.5,906.2) rotate(69)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Saarbrücken 159.54°</tspan></text>
 	</g>
-	<g transform="translate(116.2,816.4) rotate(174)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(91.1,553.3) rotate(174)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Sacramento 264.55°</tspan></text>
 	</g>
-	<g transform="translate(117.5,818.1) rotate(174)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(862.6,742.6) rotate(33)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Salzburg 123.35°</tspan></text>
+	</g>
+	<g transform="translate(91.3,555.1) rotate(174)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >San Francisco 264.31°</tspan></text>
 	</g>
-	<g transform="translate(927.3,783.7) rotate(65)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(687.2,894.2) rotate(65)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >San Gimignano 155.31°</tspan></text>
 	</g>
-	<g transform="translate(986.8,368.8) rotate(15)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(194.4,233.5) rotate(221)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >Scarborough 311.58°</tspan></text>
+	</g>
+	<g transform="translate(916.2,623.4) rotate(15)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Schweinfurth 105.50°</tspan></text>
 	</g>
-	<g transform="translate(931.7,776.8) rotate(64)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(693.4,891.2) rotate(64)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Siena 154.36°</tspan></text>
 	</g>
-	<g transform="translate(933.9,773.4) rotate(63)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(696.6,889.7) rotate(63)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Straßburg 153.89°</tspan></text>
 	</g>
-	<g transform="translate(995.2,623.8) rotate(45)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(807.7,810.0) rotate(45)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Stuttgart 135.21°</tspan></text>
 	</g>
-	<g transform="translate(103.5,799.1) rotate(177)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(89.8,535.2) rotate(177)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Torquay 267.02°</tspan></text>
 	</g>
-	<g transform="translate(915.6,801.0) rotate(67)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(671.1,901.3) rotate(67)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Valletta 157.71°</tspan></text>
 	</g>
-	<g transform="translate(978.9,679.7) rotate(51)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(770.9,842.7) rotate(51)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Venedig 141.90°</tspan></text>
 	</g>
-	<g transform="translate(956.9,731.7) rotate(58)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(731.8,870.2) rotate(58)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Verona 148.40°</tspan></text>
 	</g>
-	<g transform="translate(929.1,781.0) rotate(64)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(689.7,893.0) rotate(64)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Vinci 154.92°</tspan></text>
 	</g>
-	<g transform="translate(998.4,415.2) rotate(21)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(903.7,661.9) rotate(21)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Wien 111.01°</tspan></text>
 	</g>
-	<g transform="translate(51.3,705.0) rotate(189)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(94.6,444.3) rotate(189)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Windsor 279.43°</tspan></text>
 	</g>
-	<g transform="translate(746.0,73.8) rotate(-29)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(876.0,303.9) rotate(-29)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Wolfsburg 60.53°</tspan></text>
 	</g>
-	<g transform="translate(910.4,216.2) rotate(-4)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+	<g transform="translate(169.0,265.4) rotate(216)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
+		<text><tspan font-family="sans" >York 306.03°</tspan></text>
+	</g>
+	<g transform="translate(930.0,479.8) rotate(-4)" stroke="none" fill="black" font-family="sans" font-size="10.00"  text-anchor="end">
 		<text><tspan font-family="sans" >Zgorzelec 85.77°</tspan></text>
 	</g>
 </g>
